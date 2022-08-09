@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SylviaOkeke
 - 👀 I’m interested in Data science and Analytics
-- 🌱 I’m currently learning Python programming for data science, Machine learning, Sql, Data visualization tools and Spreadseets
+- 🌱 I’m currently learning Python programming for data science, Machine learning, Sql, Data visualization tools and Spreadsheets
 - 💞️ I’m looking to collaborate on any analytical job opportunity
 - 📫 How to reach me sylviaokeke54@gmail.com
 
