@@ -5,7 +5,9 @@
 📫 How to reach me sylviaokeke54@gmail.com
 
 Let's connect!
+
 Linkedin: Sylvia Okeke
+
 E-mail: sylviaokeke54@gmail.com
 
 SylviaOkeke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
