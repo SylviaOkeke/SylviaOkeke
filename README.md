@@ -12,7 +12,7 @@ Outside of work, I love travelling to new places and meeting people! Also, I lov
 
 I enjoy connecting with new people; give me a shout at 📧 sylviaokeke54@gmail.com, on Twitter (@ogesylvi), Instagram, or on LinkedIn!
 
-###### Check out my:**
+###### Check out my:
 
 * [Data_Analysis_Portfolio](https://github.com/SylviaOkeke/Data_Analysis_Portfolio#portfolio-and-study-projects)
 * [Certificates](https://github.com/SylviaOkeke/Data_Analysis_Portfolio/edit/main/README.md#certificates)
