@@ -2,7 +2,7 @@
 
 I'm Sylvia Okeke, an aspiring data analyst with experience in sales, tourism and logistics💰.
 
-Fascinated by the impact of data on business operations, I'm retraining as a data analyst. And am enjoying every second of the path I chose. I hope to blend my newfound data analysis skills with existing business knowledge to bring unique insights into any future role I find myself.
+Fascinated by the impact of data on business operations, I'm retraining as a data analyst. And am enjoying every second of the path I chose. I hope to blend my newfound data analysis skills with existing business knowledge to bring unique insights into any future role I find myself in.
 
 I currently work on my Data Visualization skills and have so much fun doing it ❤. Please follow me on Tableau Public via @sylvia54 to see my projects.
 
