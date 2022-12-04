@@ -16,7 +16,7 @@ I enjoy connecting with new people; give me a shout at 📧 sylviaokeke54@gmail.
 
 * [Data_Analysis_Portfolio](https://github.com/SylviaOkeke/Data_Analysis_Portfolio#portfolio-and-study-projects)
 * [Certificates](https://github.com/SylviaOkeke/Data_Analysis_Portfolio/edit/main/README.md#certificates)
-* Projects on Tableau Public [@sylvia54](https://public.tableau.com/app/profile/sylvia54)
+* Projects on Tableau Public [@sylvia54](https://public.tableau.com/app/profile/sylvia54.viz)
 
 
 ###### Let's connect!
