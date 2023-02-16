@@ -21,7 +21,7 @@ I enjoy connecting with new people; give me a shout at 📧 sylviaokeke54@gmail.
 
 ###### Let's connect!
 
-- Linkedin: [@SylviaOkeke](https://www.linkedin.com/in/osylviaokeke/)
+- Linkedin: [@OgechukwuS.O.](https://www.linkedin.com/in/osylviaokeke/)
 - E-mail: sylviaokeke54@gmail.com 
 
 
